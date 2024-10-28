@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobosu10&show_icons=true&theme=radical&layout=donut)](https://github.com/bobosu10/github-readme-stats)
 
+![Snake animation](https://github.com/bobosu10/bobosu10/blob/output/github-contribution-grid-snake.svg)
+
 Enjoy 🤠
 
 
