@@ -2,7 +2,7 @@
 <code>System.out.println("Welcome to my github!")</code>
 
 ## My name is Lucas Barbosa
-(Java | Javascript | HTML | CSS ) 🚀
+( Java | Springboot | Javascript | HTML | CSS ) 🚀
 
 
 <p>-🎓 Computer Science Student uerj<p>
