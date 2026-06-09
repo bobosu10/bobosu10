@@ -24,7 +24,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobosu10&show_icons=true&theme=radical&layout=donut)](https://github.com/bobosu10/github-readme-stats)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bobosu10&show_icons=true&theme=radical&layout=donut)]
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bobosu10&show_icons=true&theme=radical&layout=donut)]
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobosu10/bobosu10/output/github-contribution-grid-snake-dark.svg">
