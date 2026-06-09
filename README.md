@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/lucas-barbosa-b0798a301" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bobosu10&show_icons=true&theme=radical&layout=donut)]
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bobosu10&show_icons=true&theme=radical&layout=donut&langs_count=8)]
 
 
 <picture align="center">
